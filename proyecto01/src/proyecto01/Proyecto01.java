@@ -15,7 +15,8 @@ public class Proyecto01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("La dirección de la UTPL es calle Marcelino Champagnat barrio San Cayetano Alto");
+        System.out.println("Direccion de UTPL: calle PARIS S/N");
     }
+    
     
 }
